@@ -232,7 +232,7 @@ Google Analytics 4 (GA4) is Google’s analytics platform for understanding how 
 
 The reason to read Google Analytics 4 through HeyMetra rather than through a server that only knows Google Analytics 4 is everything else it can answer in the same breath:
 
-**Ads** — [Google Ads](https://github.com/zeisoft/google-ads-mcp)
+**Ads** — [Google Ads](https://github.com/zeisoft/google-ads-mcp) · [Meta](https://github.com/zeisoft/meta-ads-mcp)
 
 **Analytics** — **Google Analytics 4** · [Google Search Console](https://github.com/zeisoft/google-search-console-mcp) · [PostHog](https://github.com/zeisoft/posthog-mcp)
 
